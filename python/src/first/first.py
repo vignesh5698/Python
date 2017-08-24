@@ -13,7 +13,7 @@ print(a,b,c,d)
 print(R"Viki","Vignesh \n NewLine\\new")
 place = "chennai"
 print(place ,"india")
-print(place*5)
+print(place*7)
 print(place[2])
 print(place[-6])
 print(place[2:4])
