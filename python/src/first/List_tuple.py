@@ -19,5 +19,6 @@ print(tuple+tuple1)
 t=("test")
 #dict
 dict={'Name':'Vignesh','Language':'Python','Place':'Chennai'}
+print(dict)
 print(dict.keys())
 print(dict.values())
