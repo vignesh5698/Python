@@ -21,7 +21,9 @@ while n1<num:
 for a in range(num):  #Range() commences from 0
     print(a+1)
 for char1 in str:
-    print(char1)
+    print(char1,end=" ")
     z=1
+print()
+    
 for a in li:
     print(a)            
