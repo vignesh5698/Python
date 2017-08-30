@@ -15,4 +15,4 @@ if b==c:
     print("You have Entered Correct Number")
 else:
     print("Good try..!!")
-    print("But answer is",b)
+    print("But answer is",b) 
