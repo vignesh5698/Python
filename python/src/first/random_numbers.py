@@ -10,7 +10,7 @@ print(random.choice(a))
 b=randrange(2)
 print(b)
 print(randrange(200))
-c=input("Enter the number:")
+c=int(input("Enter the number:"))
 if b==c:
     print("You have Entered Correct Number")
 else:
